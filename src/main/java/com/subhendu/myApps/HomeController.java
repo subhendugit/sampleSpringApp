@@ -11,6 +11,7 @@ import org.springframework.ui.Model;
 import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
+import com.subhendu.myApps.User;
 
 /**
  * Handles requests for the application home page.
